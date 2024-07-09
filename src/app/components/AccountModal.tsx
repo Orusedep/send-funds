@@ -33,13 +33,13 @@ const AccountModal: React.FC<ModalProps> = ({ isOpen, onClose, onSent }) => {
           <p>Send the money here, make i see food chop</p>
           <div className="mt-12 space-y-2 text-left">
             <p className="flex justify-between">
-              <span>Name:</span> <span>Orusede Pena-ere</span>
+              <span>Name:</span> <span>Providence Orusede</span>
             </p>
             <p className="flex justify-between">
-              <span>Account Number:</span> <span>2001009257</span>
+              <span>Account Number:</span> <span>0665872333</span>
             </p>
             <p className="flex justify-between">
-              <span>Bank Name:</span> <span>KUDA Microfinance Bank</span>
+              <span>Bank Name:</span> <span>GTB</span>
             </p>
           </div>
           <button
